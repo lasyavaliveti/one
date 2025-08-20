@@ -851,7 +851,7 @@
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-laptop"></i></div>
                 <h3>Laptops</h3>
-                <p>Powerful machines for work & play</p>
+                <p>Powerful for work & play</p>
             </div>
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-tshirt"></i></div>
